@@ -59,6 +59,14 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+    input {
+        font-size: 16px;
+    }
+    
+    button {
+        padding: 3px;
+    }
+    
     #ballContainer {
         width: 60%;
         text-align: center;
