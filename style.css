@@ -65,6 +65,7 @@ body {
     
     button {
         padding: 3px;
+        font-size: 16px;
     }
     
     #ballContainer {
